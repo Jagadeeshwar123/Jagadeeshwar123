@@ -1,6 +1,6 @@
-[![MasterHead](https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif)](https://Jagadeeshwar123.io)
 <h1 align="center">Hi 👋, I'm Jagadeeshwar Reddy</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadeeshwar123&label=Profile%20views&color=0e75b6&style=flat" alt="jagadeeshwar123" /> </p>
 
