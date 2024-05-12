@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/jagadeeshwar666" target="blank"><img src="https://img.shields.io/twitter/follow/jagadeeshwar666?logo=twitter&style=for-the-badge" alt="jagadeeshwar666" /></a> </p>
 
-- 🔭 I’m currently working on **Broadridge Financial Solutions**
+- 🔭 I’m currently working in **Broadridge Financial Solutions**
 
 - 🌱 I’m currently learning **AWS DevOps**
 
