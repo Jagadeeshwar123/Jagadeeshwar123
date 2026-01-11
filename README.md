@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jagadeeshwar Reddy</h1>
-<h3 align="center">A passionate Automation Engineer from India</h3>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working in **Evernorth Health Services**
 
-- 🌱 I’m currently learning **AWS DevOps**
+- 🌱 I’m currently Working on **AWS DevOps**
 
 - 📫 How to reach me **jagadeeshwerk7@gmail.com**
 
